@@ -11,8 +11,6 @@ Building cloud-native systems, distributed backends, and AI-powered applications
 * Interested in **Backend Engineering**, **Distributed Systems**, **Cloud Infrastructure**, and **Applied AI**
 * Enjoy designing reliable systems with strong consistency and scalability guarantees
 * Currently exploring AI agents, retrieval systems, and production-grade cloud deployments
-* Solved **400+ DSA problems** across LeetCode and GeeksforGeeks
-
 ---
 
 ## Tech Stack
